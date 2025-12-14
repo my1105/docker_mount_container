@@ -1,0 +1,1 @@
+task_id:"f8PYK2O9tfoO8GEoFjpUC" situation_id:"dz0E45kbKkNwDlnvk8M0y" check_item:{check_item_id:"XLb8pkUe0CPJtu4b3MQaJ" command:{command_id:"CRoD9SlLzH1vLpcEmdfPe" command_line:"progate diagnose"}} check_item:{check_item_id:"7fshfeAA-TSs4P4iezA7j" command:{command_id:"_AD-xjvNEsI3xU6itGIgr" command_line:"bash ./__tests__/docker_start_check.sh"}}
